@@ -10,3 +10,14 @@ This project aims to predict house prices in Bangalore using machine learning al
 
   ```bash
   git clone <repository_url>
+
+### 2. Navigate to the project directory:
+
+  cd HousePricePrediction
+  
+### 3. Install the required Python packages using pip:
+
+  pip install -r requirements.txt
+
+### 4. 
+
