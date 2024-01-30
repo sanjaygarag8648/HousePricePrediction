@@ -2,6 +2,8 @@
 
 This project aims to predict house prices in Bangalore using machine learning algorithms.
 
+The "Getting Started" section provides step-by-step instructions for someone who wants to set up and run your Django app locally. It covers cloning the repository, installing dependencies, configuring the database settings, running migrations, and starting the development server.
+
 ## Usage
 
 ### 1. Installation
