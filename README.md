@@ -28,5 +28,5 @@ Access the application at http://localhost:8000.
 Steps:
 
   1. After entering into Prediction Page, Enter the required fields as Area Sq.Feet, Location, Number of Bathrooms etc...
-  2. Entering all the required fields click on Predict that display Predicted Price of the House based on the entere fields.
+  2. Entering all the required fields click on Predict that display Predicted Price of the House based on the fields.
 
